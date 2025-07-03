@@ -4,7 +4,7 @@
 
 ## Table of Contents
 - [Project Description](#project-description)
-- [Technical Stack](#-technical-stack)
+- [Technical Stack](#technical-stack)
 - [Key Features](#key-features)
   - [Older Adults](#older-adults)
   - [Caregivers](#caregivers)
