@@ -4,7 +4,7 @@
 
 ## Table of Contents
 - [Project Description](#project-description)
-- [Technical Stack & Architecture](#-technical-stack--architecture)
+- [Technical Stack](#-technical-stack)
 - [Key Features](#key-features)
   - [Older Adults](#older-adults)
   - [Caregivers](#caregivers)
@@ -24,7 +24,7 @@ CareConnect aims to improve the quality of life for seniors by promoting safety,
 
 ---
 
-## Technical Stack & Architecture
+## Technical Stack
 
 - **Language**: Kotlin
 - **UI Toolkit**: Jetpack Compose
@@ -32,7 +32,6 @@ CareConnect aims to improve the quality of life for seniors by promoting safety,
   - **Firebase Authentication** – secure multi-role user management
   - **Cloud Firestore** – real-time NoSQL database
   - **Firebase Storage** – profile image storage
-- **Navigation**: Jetpack Navigation Compose
 
 ---
 
